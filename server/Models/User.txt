@@ -1,0 +1,23 @@
+db.users.insertMany(
+ [ 
+  {
+  name: "Aftab",
+  email: "Aftab23@agi.com",
+  password: "uj25llp"
+  },
+
+{
+  name: "Vijay",
+  email: "Viju@jk.com",
+  password: "jko565oiu"
+  },
+
+  {
+  name: "Kartik",
+  email: "karu@222jj.com",
+  password: "p569gg"
+  },
+
+
+
+])

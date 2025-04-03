@@ -1,0 +1,63 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #222;
+    color: white;
+    height: 60px;
+  }
+  
+  
+  
+  .search-box input {
+    width: 450px;
+    padding: 8px;
+    border-radius: 10px;
+    
+    margin-right: 850px;
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-links .username {
+    margin-right: 15px;
+  }
+  
+  .nav-button {
+    background: transparent;
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin-left: 10px;
+    transition: 0.3s;
+  }
+  
+  .nav-button:hover {
+   transform: scale(1.1);
+  }
+  
+  .signup {
+    
+    color: white;
+    margin-right: 15px;
+    border-radius: 30px;
+  }
+  
+  .signup:hover {
+    transform: scale(1.1);
+  }
+  
+  .logout-btn {
+    background: white;
+    color: #c010ec;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 30px;
+  }
+  

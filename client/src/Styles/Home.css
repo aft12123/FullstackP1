@@ -1,0 +1,104 @@
+/* Home Container */
+.home-container {
+    /* text-align: center; */
+    padding: 20px;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background: url("https://assets.gqindia.com/photos/62a9d4653e8cdc9b632eb2ad/16:9/w_2560%2Cc_limit/10%2520restaurants%2520in%2520Mumbai%2520that%2520offer%2520the%2520best%2520sunset%2520views.jpg") center/cover no-repeat;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 15px;
+  }
+  
+  .hero-section h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  
+  .search-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  .search-form input {
+    padding: 10px;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  .search-form button {
+    padding: 10px 15px;
+    margin-left: 10px;
+    background: #065595;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Explore Categories */
+  .explore-section {
+    margin: 30px 0;
+    text-align: center;
+  }
+  
+  .category-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .category-list a {
+    text-decoration: none;
+    padding: 10px 15px;
+    background: #ff4f5a;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s;
+  }
+  
+  .category-list a:hover {
+    background: #eb0cd1;
+  }
+  
+  /* Featured Restaurants */
+  .featured-section {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .featured-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .featured-item {
+    background: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .featured-item img {
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+  }
+  
+  .featured-item p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  

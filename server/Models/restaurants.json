@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "restaurant": "Gufha Restaurant",
+    "city": "Chandigarh",
+    "image": "https://res.cloudinary.com/simplotel/image/upload/x_0,y_113,w_3192,h_1796,r_0,c_crop,q_80,fl_progressive/w_960,f_auto,c_fit/the-president-hotel-jayanagar-bangalore/Gufha_Restaurant_The_President_Hotel_Jayanagar_Bangalore_5_kmqaaf",
+    "reviews": [
+      {
+        "username": "Mueez",
+        "rating": 4,
+        "comment": "Amazing food."
+      },
+      {
+        "username": "Akhilesh",
+        "rating": 5,
+        "comment": "best Punjabi food."
+      }
+    ],
+    "category": "best pujab's Restaurant"
+  },
+  {
+    "id": 2,
+    "restaurant": "Dream Dine",
+    "city": "Bangalore",
+    "image": "https://www.singaporestarcruise.com/upload/blog/dream-dining.jpg",
+    "reviews": [
+      {
+        "username": "Aaquib",
+        "rating": 5,
+        "comment": "best South Indian taste."
+      },
+      {
+        "username": "pooja",
+        "rating": 4,
+        "comment": "Delicious food."
+      }
+    ],
+    "category": "Best Chicken Tikka"
+  },
+  {
+    "id": 3,
+    "restaurant": "Kohinoor",
+    "city": "Bangalore",
+    "image": "https://kohinoorrestaurantphuket.com/wp-content/uploads/2023/09/kohinoor2-1.jpg",
+    "reviews": [
+      {
+        "username": "Dinesh",
+        "rating": 5,
+        "comment": "Authentic South Indian taste!"
+      },
+      {
+        "username": "virat",
+        "rating": 3,
+        "comment": "Delicious but service is not Good."
+      }
+    ],
+    "category": "Best Chiken biryani"
+  },
+  {
+    "id": 4,
+    "restaurant": "Karigiri",
+    "city": "Mumbai",
+    "image": "https://snackfax.com/wp-content/uploads/2023/05/Featured-img-3-3-1536x864.png",
+    "reviews": [
+      { "username": "Aftab", "rating": 5, "comment": "best taste!" },
+      {
+        "username": "Commins",
+        "rating": 4,
+        "comment": "Delicious, but the service was slow."
+      }
+    ],
+    "category": "best Food"
+  },
+  {
+    "id": 5,
+    "restaurant": "Burger King",
+    "city": "Pune",
+    "image": "https://th.bing.com/th/id/OIP.fBeOYjjrf04iTi3T3b8ybAHaEK?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Aniket",
+        "rating": 5,
+        "comment": "Jumbo Burger is best"
+      },
+      {
+        "username": "kartik",
+        "rating": 4,
+        "comment": "Delicious, but the service was slow."
+      }
+    ],
+    "category": "Burgers"
+  },
+  {
+    "id": 6,
+    "restaurant": "Rim Naam",
+    "city": "Delhi",
+    "image": "https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-bengaluru/dining/detail/rim-naam-water-body-724x407.jpg?w=724&hash=9b31ce87990f69261682f5d44d8a4b6f",
+    "reviews": [
+      {
+        "username": "Digvijay",
+        "rating": 5,
+        "comment": "chicken is best here."
+      },
+      {
+        "username": "Payal",
+        "rating": 4,
+        "comment": "best restaurant."
+      }
+    ],
+    "category": "Healthy-Food"
+  },
+  {
+    "id": 7,
+    "restaurant": "Tatva restaurants",
+    "city": "Hyderabad",
+    "image": "https://thegoodlifewithiq.com/wp-content/uploads/2018/10/Tatva-review-Formal-seating-1.jpg",
+    "reviews": [
+      { "username": "Nadeem", "rating": 4, "comment": "Best biryani" },
+      {
+        "username": "Suleman",
+        "rating": 5,
+        "comment": "Loved the food."
+      }
+    ],
+    "category": "Biryani"
+  },
+  {
+    "id": 8,
+    "restaurant": "Peter cat",
+    "city": "Kolkata",
+    "image": "https://th.bing.com/th/id/R.371dd36687db93e8d9edcd47125587df?rik=zXi1Vo%2bFBO6ktw&riu=http%3a%2f%2fwww.wheelsonourfeet.com%2fwp-content%2fuploads%2f2013%2f12%2fpeter-cat-in-kolkata.jpg&ehk=JdgPFUG74dEdOPC2hHNvqpy8NeF9uVRZ24bG2%2fLLEGw%3d&risl=&pid=ImgRaw&r=0",
+    "reviews": [
+      { "username": "Ramesh", "rating": 5, "comment": "good rolls" },
+      {
+        "username": "supriya",
+        "rating": 3,
+        "comment": "taste good but we have to wait for order."
+      }
+    ],
+    "category": "Fast-Food"
+  },
+  {
+    "id": 9,
+    "restaurant": "Eden Pavilion",
+    "city": "Lucknow",
+    "image": "https://th.bing.com/th/id/OIP.XONO1STsjJErnWC00RtY-gHaD_?rs=1&pid=ImgDetMain",
+    "reviews": [
+      { "username": "Ajay", "rating": 5, "comment": "Bset Restaurant" },
+      {
+        "username": "Vijay",
+        "rating": 4,
+        "comment": "costly"
+      }
+    ],
+    "category": "Fast food"
+  },
+  {
+    "id": 10,
+    "restaurant": "Indian Soup",
+    "city": "Jaipur",
+    "image": "https://th.bing.com/th/id/OIP.v1DLXen24ejDS7eGf8NA1wHaE7?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Ganesh",
+        "rating": 5,
+        "comment": "best soap Available here"
+      },
+      {
+        "username": "Priya",
+        "rating": 4,
+        "comment": "Great"
+      }
+    ],
+    "category": "Fast Food"
+  },
+  {
+    "id": 11,
+    "restaurant": "Indian Accent",
+    "city": "Goa",
+    "image": "https://th.bing.com/th/id/OIP.WQyMoFDEk0Bb6si_RgrtIgHaEK?rs=1&pid=ImgDetMain",
+    "reviews": [
+      { "username": "Dinesh", "rating": 5, "comment": "Best food in Goa." },
+      {
+        "username": "Pramod",
+        "rating": 4,
+        "comment": "Loved the restaurant"
+      }
+    ],
+    "category": "Seafood"
+  },
+
+  {
+    "id": 12,
+    "restaurant": "Karavalli",
+    "city": "Bangalore",
+    "image": "https://th.bing.com/th/id/OIP.Krze6lliMtyZUWTjJo05GwHaEH?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Raju",
+        "rating": 5,
+        "comment": "Perfect Restaurant for the Perfect chicken Dish"
+      },
+      {
+        "username": "Surjit",
+        "rating": 4,
+        "comment": "best Taste"
+      }
+    ],
+    "category": "South Thali"
+  },
+  {
+    "id": 13,
+    "restaurant": "Bomras",
+    "city": "Bangalore",
+    "image": "https://assets.cntraveller.in/photos/60ba22a78c5b530e12127b30/master/w_1600%2Cc_limit/New-bomras-anjuna-goa.jpg",
+    "reviews": [
+      {
+        "username": "Vijay",
+        "rating": 5,
+        "comment": "best idli is available here"
+      },
+      {
+        "username": "nisha",
+        "rating": 3,
+        "comment": "best restaurant but so much costly."
+      }
+    ],
+    "category": "Biryani"
+  },
+  {
+    "id": 14,
+    "restaurant": "Zeera",
+    "city": "Delhi",
+    "image": "https://th.bing.com/th/id/OIP.SB35762EHmS-veKDEHhhawHaJ4?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Varun",
+        "rating": 5,
+        "comment": "Nice restaurant"
+      },
+      {
+        "username": "iyer",
+        "rating": 3,
+        "comment": "so much costly restaurant."
+      }
+    ],
+    "category": "Grill & BBQ"
+  },
+  {
+    "id": 15,
+    "restaurant": "Blue nile",
+    "city": "Mumbai",
+    "image": "https://th.bing.com/th/id/OIP.OiLslGlyyKsj4OKVY0eu7gHaGL?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Rasika",
+        "rating": 5,
+        "comment": "Great Veg Rescipies Available here"
+      },
+      {
+        "username": "kartik",
+        "rating": 4,
+        "comment": "Good restaurant."
+      }
+    ],
+    "category": "Fast-Food"
+  },
+  {
+    "id": 16,
+    "restaurant": "Green veg",
+    "city": "Chennai",
+    "image": "https://assets.gqindia.com/photos/5d88bf2c178396000889865a/master/w_1600%2Cc_limit/Candy%2520and%2520green.jpg",
+    "reviews": [
+      {
+        "username": "Gokul",
+        "rating": 4,
+        "comment": "Best restaurant"
+      },
+      {
+        "username": "Snehal",
+        "rating": 4,
+        "comment": "best taste!"
+      }
+    ],
+    "category": "Healthy-Food"
+  },
+  {
+    "id": 17,
+    "restaurant": "Chingari",
+    "city": "Bangalore",
+    "image": "https://th.bing.com/th/id/OIP.cO3_4HJi15StN618N41c9QHaEd?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Varun",
+        "rating": 5,
+        "comment": "Best Chicken item available here!"
+      },
+      { "username": "pooja", "rating": 3, "comment": "Very costly restaurant" }
+    ],
+    "category": "Asian-Cuisine"
+  },
+  {
+    "id": 18,
+    "restaurant": "The table",
+    "city": "Hyderabad",
+    "image": "https://th.bing.com/th/id/OIP.uQmlSlKus62uwWKF_ol9LwHaEK?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Rakesh",
+        "rating": 5,
+        "comment": "Best Breakfast item is here"
+      },
+      {
+        "username": "Raghu",
+        "rating": 3,
+        "comment": "space is very less."
+      }
+    ],
+    "category": "Fast food" 
+  },
+  {
+    "id": 19,
+    "restaurant": "Ziya",
+    "city": "Amritsar",
+    "image": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2024/07/15104324/Featured-Inside-1-7-1600x900.jpg",
+    "reviews": [
+      {
+        "username": "Nadeem",
+        "rating": 5,
+        "comment": "Best butter chicken!"
+      },
+      { "username": "nisha", "rating": 3, "comment": "best restaurant." }
+    ],
+    "category": "Asian-Cuisine"
+  },
+  {
+    "id": 20,
+    "restaurant": "Seven kitchen",
+    "city": "Goa",
+    "image": "https://th.bing.com/th/id/OIP.m7kbUiCMCqEj2HqjpXfSlAAAAA?rs=1&pid=ImgDetMain",
+    "reviews": [
+      { "username": "Dinesh", "rating": 5, "comment": "I thik this is the best restaurant in the entire goa" },
+      {
+        "username": "Pramod",
+        "rating": 4,
+        "comment": "Great restaurant"
+      }
+    ],
+    "category": "Seafood"
+  },
+  {
+    "id": 21,
+    "restaurant": "oye kake",
+    "city": "Jaipur",
+    "image": "https://th.bing.com/th/id/OIP.R3G5V_2gwsduP9uB0YF0fAHaEO?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Rashmi",
+        "rating": 5,
+        "comment": "Best punjabi thali is here guys."
+      },
+      { "username": "seema", "rating": 4, "comment": "Best chicken thali." }
+    ],
+    "category": "Indian Thali"
+  },
+  {
+    "id": 22,
+    "restaurant": "Savya rasa",
+    "city": "Pune",
+    "image": "https://th.bing.com/th/id/OIP.ucuyJh5Y2_9YUb3a06YMCgAAAA?rs=1&pid=ImgDetMain",
+    "reviews": [
+      { "username": "mamta", "rating": 5, "comment": "Good restaurant." },
+      {
+        "username": "Kulkarni",
+        "rating": 4,
+        "comment": "I find the best restaurant in the pune city"
+      }
+    ],
+    "category": "Healthy-Food"
+  },
+  {
+    "id": 23,
+    "restaurant": "The Gt Delhi",
+    "city": "Delhi",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/e3/f4/3d/photo0jpg.jpg",
+    "reviews": [
+      { "username": "Aakash", "rating": 5, "comment": "Best veg thali is here guys" },
+      {
+        "username": "Amit",
+        "rating": 2,
+        "comment": "very costly "
+      }
+    ],
+    "category": "Fast-Food"
+  },
+  {
+    "id": 24,
+    "restaurant": "White restaurant",
+    "city": "Kochi",
+    "image": "https://th.bing.com/th/id/OIP.4mR73UbSUI-12F4uwsfVeQHaGW?rs=1&pid=ImgDetMain",
+    "reviews": [
+      {
+        "username": "Vinod",
+        "rating": 5,
+        "comment": "Great Restaurant i ever seen in the entire Kochi"
+      },
+      {
+        "username": "Amit kumar",
+        "rating": 1,
+        "comment": "best restaurant but their waiters are very bad in nature so i give only one start to this restaurant.."
+      }
+    ],
+    "category": "Asian-Cuisine"
+  }
+]
